@@ -19,20 +19,20 @@ html {
 
 .polaroid:first-child {
   left: 25%;
-  top: 10%;
+  top: 100px;
   transform: rotate(-10deg);
 }
 
 .polaroid:nth-child(2) {
   left: 35%;
-  top: 15%;
+  top: 150px;
   transform: rotate(5deg);
   z-index: 1;
 }
 
 .polaroid:nth-child(3) {
   left: 45%;
-  top: 10%;
+  top: 100px;
   transform: rotate(30deg);
 }
 
